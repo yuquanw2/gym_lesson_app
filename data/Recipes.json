@@ -1,0 +1,92 @@
+[
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 10, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "15"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 10, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "8"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 10, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "AbbyAnn",
+        "views": "6"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 10, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Carrie",
+        "views": "4"
+    },
+    {
+        "name": "Cardio H2O",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE Pool",
+        "date": "Apr 10, 2019 \u00a0 5:10 pm \u00a0 5:50 pm",
+        "speaker": "Staff",
+        "views": "10"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 10, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Aimee",
+        "views": "4"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 10, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "9"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 10, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "5"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 10, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Blanka",
+        "views": "7"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 10, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "12"
+    }
+]

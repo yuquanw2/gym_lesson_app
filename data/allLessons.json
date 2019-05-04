@@ -1,0 +1,1290 @@
+{"gymLesson":[
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 16, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Ana",
+        "views": "4"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 16, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "3"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 16, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Maria",
+        "views": "7"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 16, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "6"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 16, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dot",
+        "views": "2"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 16, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Blanka",
+        "views": "2"
+    },
+    {
+        "name": "BODYFLOW",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 16, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Annmarie",
+        "views": "6"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 16, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Madeline",
+        "views": "6"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 16, 2019 \u00a0 6:30 pm \u00a0 7:15 pm",
+        "speaker": "Charlotte",
+        "views": "5"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 16, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Aimee",
+        "views": "1"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 16, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "6"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 16, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "5"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 17, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "6"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 17, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "1"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 17, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "AbbyAnn",
+        "views": "1"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 17, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Carrie",
+        "views": "2"
+    },
+    {
+        "name": "Cardio H2O",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE Pool",
+        "date": "Apr 17, 2019 \u00a0 5:10 pm \u00a0 5:50 pm",
+        "speaker": "Staff",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 17, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Aimee",
+        "views": "3"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 17, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "7"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 17, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "2"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 17, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Blanka",
+        "views": "5"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 17, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "3"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 17, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "1"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 18, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Mihary",
+        "views": "5"
+    },
+    {
+        "name": "HIIT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 18, 2019 \u00a0 12:15 pm \u00a0 12:45pm",
+        "speaker": "Emily",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 18, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "2"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 18, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Carrie",
+        "views": "3"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 18, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Coltrane",
+        "views": "4"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 18, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Becca",
+        "views": "2"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 18, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Marissa",
+        "views": "3"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 18, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Rosa",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 18, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "1"
+    },
+    {
+        "name": "Pound",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 18, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Becca",
+        "views": "3"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 19, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "AbbyAnn",
+        "views": "1"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 19, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 19, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Emily",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 19, 2019 \u00a0 12:15 pm \u00a0 1:15 pm",
+        "speaker": "Angela",
+        "views": "4"
+    },
+    {
+        "name": "Iyengar Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 19, 2019 \u00a0 3:30 pm \u00a0 5:00 pm",
+        "speaker": "Gwen",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 20, 2019 \u00a0 11:00 am \u00a0 12:00 pm",
+        "speaker": "Gorica",
+        "views": "3"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 20, 2019 \u00a0 11:45 am \u00a0 12:45 pm",
+        "speaker": "Marissa",
+        "views": "3"
+    },
+    {
+        "name": "Gentle and Meditation",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 21, 2019 \u00a0 3:30 pm \u00a0 5:00 pm",
+        "speaker": "Pat",
+        "views": "1"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 22, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 22, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "HIIT Fusion",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 22, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Neha",
+        "views": "1"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 22, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYPUMP *Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 22, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 22, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYATTACK",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 22, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Rosa",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 22, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 22, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Marissa",
+        "views": "1"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 23, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Ana",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 23, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 23, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Maria",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 23, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "2"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 23, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 23, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYFLOW",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 23, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Annmarie",
+        "views": "1"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 23, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Madeline",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 23, 2019 \u00a0 6:30 pm \u00a0 7:15 pm",
+        "speaker": "Charlotte",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 23, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Aimee",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 23, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 23, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "3"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 24, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "1"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 24, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 24, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 24, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Carrie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cardio H2O",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE Pool",
+        "date": "Apr 24, 2019 \u00a0 5:10 pm \u00a0 5:50 pm",
+        "speaker": "Staff",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 24, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Aimee",
+        "views": "1"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 24, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 24, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 24, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 24, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 24, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 25, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Mihary",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "HIIT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 25, 2019 \u00a0 12:15 pm \u00a0 12:45pm",
+        "speaker": "Emily",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 25, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 25, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Carrie",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 25, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Coltrane",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 25, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Becca",
+        "views": "1"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 25, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Marissa",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 25, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Rosa",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 25, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Pound",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 25, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 26, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 26, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 26, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Emily",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 26, 2019 \u00a0 12:15 pm \u00a0 1:15 pm",
+        "speaker": "Angela",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Iyengar Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 26, 2019 \u00a0 3:30 pm \u00a0 5:00 pm",
+        "speaker": "Gwen",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 27, 2019 \u00a0 11:00 am \u00a0 12:00 pm",
+        "speaker": "Gorica",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 27, 2019 \u00a0 11:45 am \u00a0 12:45 pm",
+        "speaker": "Marissa",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Gentle and Meditation",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 28, 2019 \u00a0 3:30 pm \u00a0 5:00 pm",
+        "speaker": "Pat",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 29, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 29, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "HIIT Fusion",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 29, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Neha",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 29, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYPUMP *Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 29, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 29, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYATTACK",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 29, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Rosa",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 29, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 29, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Marissa",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 30, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Ana",
+        "views": "1"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 30, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 30, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Maria",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 30, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 30, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dot",
+        "views": "2"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 30, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYFLOW",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 30, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Annmarie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 30, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Madeline",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "Apr 30, 2019 \u00a0 6:30 pm \u00a0 7:15 pm",
+        "speaker": "Charlotte",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "Apr 30, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Aimee",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "Apr 30, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "Apr 30, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 1, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Kelsey",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "May 1, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 1, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 1, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Carrie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cardio H2O",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE Pool",
+        "date": "May 1, 2019 \u00a0 5:10 pm \u00a0 5:50 pm",
+        "speaker": "Staff",
+        "views": "1"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 1, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Aimee",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 1, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "May 1, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Annmarie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 1, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Blanka",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 1, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "2"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "May 1, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Ary",
+        "views": "1"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 2, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "Mihary",
+        "views": "2"
+    },
+    {
+        "name": "HIIT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 2, 2019 \u00a0 12:15 pm \u00a0 12:45pm",
+        "speaker": "Emily",
+        "views": "1"
+    },
+    {
+        "name": "Vinyasa Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 2, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Billie",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Barre Above*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 2, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Carrie",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "BODYATTACK Express",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 2, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Coltrane",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Cycle*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "Cycle Studio",
+        "date": "May 2, 2019 \u00a0 5:30 pm \u00a0 6:15 pm",
+        "speaker": "Becca",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "May 2, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Marissa",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYCOMBAT",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 2, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Rosa",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 2, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Pedro",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Pound",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "May 2, 2019 \u00a0 7:00 pm \u00a0 8:00 pm",
+        "speaker": "Becca",
+        "views": "2"
+    },
+    {
+        "name": "BODYPUMP*Reservation Required*",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 3, 2019 \u00a0 6:30 am \u00a0 7:30 am",
+        "speaker": "AbbyAnn",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 3, 2019 \u00a0 12:15 pm \u00a0 1:00 pm",
+        "speaker": "Dot",
+        "views": "Group Fitness Schedule - CRCE Classes"
+    },
+    {
+        "name": "HIIT Barre",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 3, 2019 \u00a0 12:15 pm \u00a0 12:45 pm",
+        "speaker": "Emily",
+        "views": "1"
+    },
+    {
+        "name": "Zumba",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "May 3, 2019 \u00a0 12:15 pm \u00a0 1:15 pm",
+        "speaker": "Angela",
+        "views": "Group Fitness Schedule - ARC Classes"
+    },
+    {
+        "name": "Iyengar Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "CRCE MP1&2",
+        "date": "May 3, 2019 \u00a0 3:30 pm \u00a0 5:00 pm",
+        "speaker": "Gwen",
+        "views": "1"
+    },
+    {
+        "name": "BODYATTACK",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 4, 2019 \u00a0 11:00 am \u00a0 12:00 pm",
+        "speaker": "Gorica",
+        "views": "4"
+    },
+    {
+        "name": "Gentle Yoga",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP4",
+        "date": "May 4, 2019 \u00a0 11:45 am \u00a0 12:45 pm",
+        "speaker": "Marissa",
+        "views": "1"
+    },
+    {
+        "name": "BODYJAM",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 6, 2019 \u00a0 6:45 pm \u00a0 7:45 pm",
+        "speaker": "Maria",
+        "views": "2"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 8, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "3"
+    },
+    {
+        "name": "BODYPUMP",
+        "event-type": "Other",
+        "sponsor": "Campus Recreation",
+        "location": "ARC MP2",
+        "date": "May 15, 2019 \u00a0 5:30 pm \u00a0 6:30 pm",
+        "speaker": "Dan",
+        "views": "4"
+    }
+]
+}
